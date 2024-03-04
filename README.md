@@ -2,6 +2,14 @@
 
 This application securely uploads files to an Amazon S3 bucket and records metadata about the upload in an Amazon DocumentDB collection through an SSH tunnel.
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Setup and Deployment Instructions](#setup-and-deployment-instructions)
+3. [Configuration](#configuration)
+4. [Architectural Overview](#architectural-overview)
+5. [Rationale behind Key Design Decisions](#rationale-behind-key-design-decisions)
+
+
 ## Overview
 This application is designed to provide a secure and scalable solution for uploading files to Amazon S3 and recording metadata in Amazon DocumentDB. It leverages AWS App Runner for deployment and integrates with AWS services such as S3, DocumentDB, and EC2 for SSH tunneling.
 
