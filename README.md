@@ -23,8 +23,8 @@ This application is designed to provide a secure and scalable solution for uploa
 ### Steps
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/usama474er/AWS_APP_Runner.git
+   
 
    Set up AWS resources:
 
